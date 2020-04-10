@@ -1,0 +1,19 @@
+3) Select the Palette
+
+Paintarama offers two types of 256 color palettes. You select
+
+@ palette by clicking on it in the Palette Group box.
+
+¢ ~§=©An optimized color palette contains the 256 best colors
+for recreating the active image
+
+¢ The standard palette covers the full color spectrum and
+includes the sixteen standard Windows colors.
+
+If you want to recreate multiple images with the same palette,
+
+select the standard palette. Otherwise, select the optimized
+
+palette because it will yield better image quality.
+
+4) Select the Reproduction Method...

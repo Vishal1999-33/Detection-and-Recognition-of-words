@@ -1,0 +1,6 @@
+
+Good font for the OCR
+Difficult font for the OCR
+Too small font for OCR
+
+Good font size for OCR

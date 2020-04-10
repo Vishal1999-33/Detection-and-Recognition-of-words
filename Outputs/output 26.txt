@@ -1,0 +1,15 @@
+
+.
+
+Metadata Extraction
+
+@ Ran enhanced metadata extraction on 619 images (users
+plugins for fiwalk developed during research)
+
+© Performed analysis on 49,724 files within images
+
+© Successfully identified 43,729 files (147 unique file types)
+against PRONOM format registry
+
+© Identified 9 files as containing virus signatures (2 unique
+virus signatures)

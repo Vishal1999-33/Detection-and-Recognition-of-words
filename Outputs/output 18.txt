@@ -1,0 +1,9 @@
+
+This text is justified. Notice how each line
+of text is lined up with both the right and
+lef margins. The computer adds extra
+space between words automatically
+Although justified text looks neat and tidy,
+the extra spaces can get distracting in long
+paragraphs. Books, however, always use
+justified margins.
