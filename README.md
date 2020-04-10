@@ -1,6 +1,6 @@
 # About
 
-The purpose of this project was to detect and recognize words from the text images. For this purpose Tesseract-ocr was used.
+The purpose of this project was to detect and recognize words from the text images. For this purpose Tesseract-ocr was used. The input images and their outputs can be obtained in the ORC Images and Outputs folders.
 
 # What is Tesseract-ocr
 
@@ -8,7 +8,7 @@ Tesseract — is an optical character recognition engine with open-source code, 
 OCR uses artificial intelligence for text search and its recognition on images.
 Tesseract is finding templates in pixels, letters, words and sentences. It uses two-step approach that calls adaptive recognition. It requires one data stage for character recognition, then the second stage to fulfil any letters, it wasn’t insured in, by letters that can match the word or sentence context.
 
-To get the installer for Tesseract click on the following link:-
+To get the installer for Tesseract, click on the following link:-
 
 [Click here](https://github.com/UB-Mannheim/tesseract/wiki)
 
